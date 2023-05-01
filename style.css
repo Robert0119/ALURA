@@ -88,7 +88,7 @@ footer{
 }
 
 form{
-    margin: 40px 0;
+    margin: 40px 40px;
 }
 form label, form legend{
     display: block;
@@ -243,6 +243,6 @@ td, th{
     }
 
     .lista-diferenciales, .imagen-diferenciales{
-        width: 101;
+        width: 100;
     }
 }
